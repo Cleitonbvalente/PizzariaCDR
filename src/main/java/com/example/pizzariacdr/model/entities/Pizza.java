@@ -9,7 +9,6 @@ public class Pizza {
     private String ingredientes;
     private String nome;
 
-    // Getters e Setters
     public int getIdPizza() {
         return idPizza;
     }

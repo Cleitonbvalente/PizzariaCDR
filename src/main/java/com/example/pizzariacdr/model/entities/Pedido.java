@@ -10,7 +10,6 @@ public class Pedido {
     private Cliente cliente;
     private Funcionario funcionario;
 
-    // Getters e Setters
     public int getIdPedido() {
         return idPedido;
     }

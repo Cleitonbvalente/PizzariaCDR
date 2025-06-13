@@ -8,7 +8,6 @@ public class Cliente {
     private String email;
     private String endereco;
 
-    // Getters e Setters
     public int getIdCliente() {
         return idCliente;
     }
